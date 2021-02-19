@@ -1,4 +1,4 @@
-package com.plcoding.spotifycloneyt
+package com.thedogenetwork.dogefy
 
 import org.junit.Test
 
